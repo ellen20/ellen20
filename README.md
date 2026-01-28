@@ -37,12 +37,6 @@ Complete E2E test suite for TodoMVC application with CI/CD integration
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ellen20&show_icons=true&theme=radical)
-
----
-
 ### 📫 Let's Connect
 
 💼 [LinkedIn](https://linkedin.com/in/yourprofile) | 📧 jljin0524@gmail.com | 📍 Houston, Texas
