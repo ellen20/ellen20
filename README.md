@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 
 **Testing:** Manual Testing, Automated Testing, API Testing, E2E Testing, Mobile Testing  
-**Automation:** Playwright, Selenium, Appium, Postman, Cypress  
+**Automation:** Playwright, Selenium, Appium, Postman, Cypress, Pact
 **Languages:** JavaScript, Python, SQL  
 **Tools:** JIRA, Git, GitHub Actions, AWS, CircleCI, Sentry  
 
@@ -27,6 +27,14 @@ Comprehensive Playwright test automation suite validating chronological sorting 
 - 🔄 **CI/CD:** Automated testing with GitHub Actions & Docker
 - 📊 **Coverage:** Sorting algorithms, pagination, timestamps, metadata, edge cases
 - 🛠️ **Tech:** Playwright, JavaScript, Docker, GitHub Actions
+
+🚗 FleetPulse — EV Fleet Management System  ← ADD THIS
+Full-stack fleet management system built to demonstrate QA skills beyond manual testing
+
+✅ Contract testing with Pact — verified API contracts between frontend and backend
+🎭 Playwright E2E tests — 3 tests covering full assignment workflow
+🗄️ Built backend API: Node.js, Express, PostgreSQL
+⚡ Tech: Playwright, Pact, Node.js, React, PostgreSQL
 
 #### 📝 **[TodoMVC E2E Tests](https://github.com/ellen20/todo-app-playwright-tests)**
 Complete E2E test suite for TodoMVC application with CI/CD integration
