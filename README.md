@@ -5,6 +5,7 @@
 🔍 **3 years of experience** in manual and automation testing  
 📱 Specialized in React web and React Native mobile testing  
 🤖 Building automation skills with **Playwright**, **Selenium**, and **Appium**  
+🔗 Exploring contract testing with Pact  
 📍 Based in Houston, Texas
 
 ---
