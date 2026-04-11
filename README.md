@@ -21,14 +21,6 @@
 
 ### 🚀 Featured Projects
 
-#### 🔥 **[HackerNews Sorting Validation](https://github.com/ellen20/hackernews-playwright-sorting-validation)** ⭐ Featured
-Comprehensive Playwright test automation suite validating chronological sorting and UI functionality
-- ✅ **120 automated tests** across 6 test suites
-- 🎯 **Core validation:** Chronological sorting of 100+ articles
-- 🔄 **CI/CD:** Automated testing with GitHub Actions & Docker
-- 📊 **Coverage:** Sorting algorithms, pagination, timestamps, metadata, edge cases
-- 🛠️ **Tech:** Playwright, JavaScript, Docker, GitHub Actions
-
 #### 🚗 **[FleetPulse — EV Fleet Management System](https://github.com/ellen20/fleetpulse-platform)**
 Full-stack fleet management system built to demonstrate QA skills beyond manual testing
 
@@ -36,6 +28,14 @@ Full-stack fleet management system built to demonstrate QA skills beyond manual 
 - 🎭 Playwright E2E tests — 3 tests covering full assignment workflow
 - 🗄️ Built backend API: Node.js, Express, PostgreSQL
 - ⚡ Tech: Playwright, Pact, Node.js, React, PostgreSQL
+  
+#### 🔥 **[HackerNews Sorting Validation](https://github.com/ellen20/hackernews-playwright-sorting-validation)** ⭐ Featured
+Comprehensive Playwright test automation suite validating chronological sorting and UI functionality
+- ✅ **120 automated tests** across 6 test suites
+- 🎯 **Core validation:** Chronological sorting of 100+ articles
+- 🔄 **CI/CD:** Automated testing with GitHub Actions & Docker
+- 📊 **Coverage:** Sorting algorithms, pagination, timestamps, metadata, edge cases
+- 🛠️ **Tech:** Playwright, JavaScript, Docker, GitHub Actions
 
 #### 📝 **[TodoMVC E2E Tests](https://github.com/ellen20/todo-app-playwright-tests)**
 Complete E2E test suite for TodoMVC application with CI/CD integration
