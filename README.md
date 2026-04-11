@@ -21,7 +21,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🚗 **[FleetPulse — EV Fleet Management System](https://github.com/ellen20/fleetpulse-platform)**
+#### 🚗 **[FleetPulse — EV Fleet Management System](https://github.com/ellen20/fleetpulse-platform)** ⭐ Featured
 Full-stack fleet management system built to demonstrate QA skills beyond manual testing
 
 - ✅ Contract testing with Pact — verified API contracts between frontend and backend
@@ -29,7 +29,7 @@ Full-stack fleet management system built to demonstrate QA skills beyond manual 
 - 🗄️ Built backend API: Node.js, Express, PostgreSQL
 - ⚡ Tech: Playwright, Pact, Node.js, React, PostgreSQL
   
-#### 🔥 **[HackerNews Sorting Validation](https://github.com/ellen20/hackernews-playwright-sorting-validation)** ⭐ Featured
+#### 🔥 **[HackerNews Sorting Validation](https://github.com/ellen20/hackernews-playwright-sorting-validation)** 
 Comprehensive Playwright test automation suite validating chronological sorting and UI functionality
 - ✅ **120 automated tests** across 6 test suites
 - 🎯 **Core validation:** Chronological sorting of 100+ articles
