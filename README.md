@@ -28,6 +28,13 @@ Full-stack fleet management system built to demonstrate QA skills beyond manual 
 - 🎭 Playwright E2E tests — 3 tests covering full assignment workflow
 - 🗄️ Built backend API: Node.js, Express, PostgreSQL
 - ⚡ Tech: Playwright, Pact, Node.js, React, PostgreSQL
+
+#### 🏦 **[Parabank Selenium Automation](https://github.com/YOUR-USERNAME/parabank-selenium-java)** (NEW)
+End-to-end UI test automation framework for Parabank using Selenium and Java
+- ✅ Automated critical banking workflows (login, transfer, bill pay)
+- 🧪 Page Object Model (POM) design for scalability
+- 🔄 CI/CD ready (can integrate with GitHub Actions)
+- ⚙️ Tech: Selenium, Java, TestNG, Maven
   
 #### 🔥 **[HackerNews Sorting Validation](https://github.com/ellen20/hackernews-playwright-sorting-validation)** 
 Comprehensive Playwright test automation suite validating chronological sorting and UI functionality
@@ -43,13 +50,6 @@ Complete E2E test suite for TodoMVC application with CI/CD integration
 - 🔄 **CI/CD:** GitHub Actions automation
 - 📊 **Coverage:** CRUD operations, filtering, state management
 - 🛠️ **Tech:** Playwright, JavaScript, GitHub Actions
-
-#### 🏦 **[Parabank Selenium Automation](https://github.com/YOUR-USERNAME/parabank-selenium-java)**
-End-to-end UI test automation framework for Parabank using Selenium and Java
-- ✅ Automated critical banking workflows (login, transfer, bill pay)
-- 🧪 Page Object Model (POM) design for scalability
-- 🔄 CI/CD ready (can integrate with GitHub Actions)
-- ⚙️ Tech: Selenium, Java, TestNG, Maven
 
 ---
 
