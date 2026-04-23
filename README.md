@@ -44,6 +44,13 @@ Complete E2E test suite for TodoMVC application with CI/CD integration
 - 📊 **Coverage:** CRUD operations, filtering, state management
 - 🛠️ **Tech:** Playwright, JavaScript, GitHub Actions
 
+#### 🏦 **[Parabank Selenium Automation](https://github.com/YOUR-USERNAME/parabank-selenium-java)**
+End-to-end UI test automation framework for Parabank using Selenium and Java
+- ✅ Automated critical banking workflows (login, transfer, bill pay)
+- 🧪 Page Object Model (POM) design for scalability
+- 🔄 CI/CD ready (can integrate with GitHub Actions)
+- ⚙️ Tech: Selenium, Java, TestNG, Maven
+
 ---
 
 ### 📫 Let's Connect
