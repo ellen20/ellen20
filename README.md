@@ -29,7 +29,7 @@ Full-stack fleet management system built to demonstrate QA skills beyond manual 
 - 🗄️ Built backend API: Node.js, Express, PostgreSQL
 - ⚡ Tech: Playwright, Pact, Node.js, React, PostgreSQL
 
-#### 🏦 **[Parabank Selenium Automation](https://github.com/YOUR-USERNAME/parabank-selenium-java)** (NEW)
+#### 🏦 **[Parabank Selenium Automation](https://github.com/ellen20/parabank-selenium-java)** (NEW)
 End-to-end UI test automation framework for Parabank using Selenium and Java
 - ✅ Automated critical banking workflows (login, transfer, bill pay)
 - 🧪 Page Object Model (POM) design for scalability
